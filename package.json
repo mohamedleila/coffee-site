@@ -1,0 +1,15 @@
+{
+  "name": "cofee-site",
+  "version": "1.0.0",
+  "description": "coffee shope brand web site",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohamed leila",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
+  }
+}
